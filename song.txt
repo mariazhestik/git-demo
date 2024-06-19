@@ -5,6 +5,10 @@ yes yes yes
 wow wow wow
 doo doo doo
 
+<<<<<<< HEAD
 dadada
 hey hey ehy
 ---------
+=======
+I love you
+>>>>>>> e3644d6eb0b0618f3a2fff315984911068bc4014
